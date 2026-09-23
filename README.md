@@ -8,8 +8,8 @@
 - 🚀 Je travaille sur des projets académiques et personnels.
 
 ## Mes projets
-- [Projet 1](lien)
-- [Projet 2](lien)
+- [Shifumi](https://leocollet07.github.io/shifumi/)
+- [Memory](https://leocollet07.github.io/memory/)
 
 ## Technologies
 C | Java | Python | HTML | CSS | JavaScript | Git | SQL | PHP
