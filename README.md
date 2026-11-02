@@ -12,6 +12,7 @@
 - [Memory](https://leocollet07.github.io/memory/)
 - [AnimeRequester](https://kevernlt.github.io/AnimeRequester/)
 - [VikingTransport](https://github.com/leocollet07/viking_transport)
+- [Yinsh](https://github.com/leocollet07/yinsh)
 
 ## Technologies
 C | Java | Python | HTML | CSS | JavaScript | Git | SQL | PHP
